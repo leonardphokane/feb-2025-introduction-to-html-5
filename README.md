@@ -22,18 +22,20 @@
 
     <section id="home">
         <h2>Home Section</h2>
-        <p>This is a paragraph of text in the home section. You can put any content here.</p>
-        <p>HTML stands for HyperText Markup Language, and it is the standard language for creating web pages.</p>
-        <p>HTML is made up of various elements like headings, paragraphs, links, and more!</p>
+        <p>I am a passoionate learner in Web Development, Database Design & Programming with SQL, Python programming and Software Engineering, 
+        with a keen interest in contributing to software development. </p>
+        <p>I excel in working under pressure, quickly adaptto new challenges, and have strong communication skills. </p>
+        <p>My goal is to continously expand my expertise, stay at the forefront of technological advancement, 
+        and apply my knowledge to develop innovative solutions that drive growth ande deliver exceptional results.</p>
     </section>
 
     <section id="about">
         <h2>About Me</h2>
         <p>Here is a bit of information about me.</p>
         <ul>
-            <li>Name: John Doe</li>
+            <li>Name: Leonard Phokane</li>
             <li>Profession: Web Developer</li>
-            <li>Hobbies: Coding, Reading, Traveling</li>
+            <li>Hobbies: Coding, Reading and Traveling</li>
         </ul>
         <img src="profile.jpg" alt="John Doe" width="200">
     </section>
@@ -55,7 +57,7 @@
     </section>
 
     <footer>
-        <p>© 2024 John Doe</p>
+        <p>© 2025 Leonard Phokane</p>
     </footer>
 
 </body>
