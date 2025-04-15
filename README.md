@@ -1,3 +1,1 @@
-# Week 1 Assignment
-
-# Basic HTML web page
+# Simple Web Page
